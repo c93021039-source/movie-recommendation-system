@@ -1,4 +1,4 @@
-# Movie-Recommendation-System
+# Movie Recommendation System
 
 ## Project Description
 This is a Python + SQLite based terminal application.
